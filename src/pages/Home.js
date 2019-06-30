@@ -3,7 +3,7 @@ import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
 import HomeIcon from "@material-ui/icons/Home";
 import Page from "components/layout/Page";
-import LinkButton from "components/LinkButton";
+import LinkButton from "components/material/LinkButton";
 import { useThemeToggle } from "providers/ThemeToggleProvider";
 import { testRoute } from "./Test";
 
